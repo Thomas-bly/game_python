@@ -26,3 +26,4 @@ En plus de cela j'ai utilisé la bibliothèque pygame pour créer la page d'accu
 La création des visuels à été faite par l'intelligence artificielle Copilote, et le résultat est très satisfaisant.
 
 Je n'ai actuellement pas le niveau, mais le but final serait de créer une interface visuelle et fonctionnelle de ce jeu.
+De plus, pour améliorer le jeu, il pourrait y avoir deux dés différents et le joueur pourrait choisir entre les deux.
