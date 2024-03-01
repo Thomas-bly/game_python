@@ -2,7 +2,7 @@
 Bonjour à tous et bienvenue sur mon premier projet python.
 
 Je réalise ce projet dans le cadre de mon Master de Data Marketing à l'École Supérieur du Digital à Bordeaux.
-Je suis débutant dans la progammation python, j'ai donc décidé de créer un petit jeu.
+Je suis débutant dans la progammation python, j'ai donc décidé d'inventer un petit jeu.
 
 Le jeu s'appelle "DÉSpêche-toi", il est très simple, le but est de lancer un dés pour obtenir des points.
 Il se joue a deux joueur et c'est le premier qui arrive à 30 points qui gagne.
