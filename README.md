@@ -11,10 +11,15 @@ J'ai donc réalisé ce programme en Python sur VSCode-2.
 Pour réaliser ce code, je me suis aidé de plusieurs forum et tuto en ligne, en voici la liste :
 
 *https://emilypython.wordpress.com/2018/03/14/lancons-des-des-avec-le-module-random-de-python/
+
 *https://python.doctor/page-apprendre-conditions-structures-conditionnelles-if-else-python-cours-debutant
+
 *https://datascientest.com/boucle-while-python
+
 *https://zestedesavoir.com/tutoriels/846/pygame-pour-les-zesteurs/1381_a-la-decouverte-de-pygame/creer-une-simple-fenetre-personnalisable/
+
 *https://www.zonensi.fr/Miscellanees/Pygame/Base_pygame/
+
 *https://www.youtube.com/watch?v=8J8wWxbAdFg
 
 En plus de cela j'ai utilisé la bibliothèque pygame pour créer la page d'accueil de mon jeu.
